@@ -1,7 +1,3 @@
-# Chapter 5
-
-Example code for Chapter 5, section 3
-
 ## Prerequisites
 
 * Created: An AWS account, and an S3 bucket for storing temporary deployment artifacts (referred to as $CF_BUCKET below)
